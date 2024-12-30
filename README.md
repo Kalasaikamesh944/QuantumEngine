@@ -84,6 +84,7 @@ These formulas are integral to understanding and developing technologies involvi
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(2).png)
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(3).png)
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(4).png)
+![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(5).png)
 ## **Lab Setup**
 ### Testing Lab Blueprint
 A modern lab setup is essential for testing the Quantum Engine. The image below details the necessary tools and configurations:
