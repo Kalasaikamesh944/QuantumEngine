@@ -28,7 +28,7 @@ This detailed blueprint lists the materials needed to construct the engine. Each
 - **Josephson Junctions**: Essential for quantum state manipulation.
 - **Laser Systems**: High-powered lasers for energy excitation.
 
-![Materials Blueprint](A_detailed_conceptual_sketch_of_required_materials.png)
+![Materials Blueprint](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/DALL%C2%B7E%202024-12-30%2010.13.10%20-%20A%20collection%20of%20individual%20materials%20required%20for%20constructing%20a%20quantum%20engine%2C%20each%20displayed%20with%20a%20clean%20and%20futuristic%20design.%20Include%20a%20niobium-.webp)
 
 ---
 
@@ -39,8 +39,6 @@ A modern lab setup is essential for testing the Quantum Engine. The image below 
 - **Cryogenic Systems**: Maintains superconducting states.
 - **Photon Detectors and Spectrometers**: Measure quantum energy output.
 - **High-Performance Computers**: Collect and analyze data.
-
-![Testing Lab Setup](A_realistic_laboratory_setup_for_testing_quantum_e.png)
 
 ---
 
@@ -61,7 +59,6 @@ Below is the blueprint for testing the Quantum Engine:
 - Measure energy output using spectrometers and photon detectors.
 - Analyze data with high-performance computers.
 
-![Experiment Blueprint](A_detailed_technical_sketch_blueprint_of_a_model_s.png)
 
 ---
 
