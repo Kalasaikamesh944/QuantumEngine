@@ -13,7 +13,7 @@ Below is the conceptual design of the Quantum Engine, showcasing its key compone
 - **Photon Generation System**: Produces energy using quantum dots.
 - **Cryogenic Cooling System**: Maintains low temperatures for efficiency.
 
-![Quantum Engine Design]()
+![Quantum Engine Design](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/DALL%C2%B7E%202024-12-30%2010.06.25%20-%20A%20detailed%20technical%20sketch%20blueprint%20of%20a%20model%20showing%20materials%20required%20for%20constructing%20a%20quantum%20engine.%20The%20design%20includes%20a%20superconducting%20c.webp)
 
 ---
 
