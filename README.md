@@ -1,4 +1,5 @@
 # **Quantum Engine Project**
+## By N V R K SAI KAMESH SHARMA
 
 ## **Overview**
 The Quantum Engine is a revolutionary concept leveraging quantum mechanics, superconductivity, and cutting-edge energy systems to create an efficient power system for futuristic applications. This project outlines the design, required materials, and experimental setup.
