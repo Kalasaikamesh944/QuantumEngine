@@ -78,7 +78,7 @@ T_{dilated} = T_0 \cdot \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
 
 These formulas are integral to understanding and developing technologies involving quantum engines, time travel, and multiverse interactions.
 
-![]()
+![Kala](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/DALL%C2%B7E%202024-12-30%2010.24.41%20-%20A%20futuristic%2C%20formula-based%20conceptual%20image%20illustrating%20Kala%20Quantum%20Time%20Travel%2C%20multiverse%20connection%2C%20and%20spaceship%20engine%20integration.%20The%20image.webp)
 
 ## **Lab Setup**
 ### Testing Lab Blueprint
