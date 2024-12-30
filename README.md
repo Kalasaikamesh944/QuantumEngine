@@ -227,6 +227,8 @@ These formulas are integral to understanding and developing technologies involvi
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(14).png)
 ## we Calculated speed from zero to speed of light the results are in the image
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(15).png)
+## After SO Many Calculations I found that the black hole opens when speed of light (3x10^8)1
+![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/black_hole_creation_simulation_table.png)
 ## **Lab Setup**
 ### Testing Lab Blueprint
 A modern lab setup is essential for testing the Quantum Engine. The image below details the necessary tools and configurations:
