@@ -221,6 +221,10 @@ These formulas are integral to understanding and developing technologies involvi
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(8).png)
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(9).png)
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(10).png)
+![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(11).png)
+![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(12).png)
+![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(13).png)
+![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(14).png)
 ## **Lab Setup**
 ### Testing Lab Blueprint
 A modern lab setup is essential for testing the Quantum Engine. The image below details the necessary tools and configurations:
