@@ -76,6 +76,136 @@ T_{dilated} = T_0 \cdot \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
 
 ---
 
+## Extra Formulas we used 
+
+# Proving Relativistic Effects at Light-Speed
+
+## **1. Relativistic Mass**
+The mass of an object increases as it approaches the speed of light:
+
+\[
+M_{rel} = \frac{M_0}{\sqrt{1 - \frac{v^2}{c^2}}}
+\]
+
+- **\(M_{rel}\)**: Relativistic mass.
+- **\(M_0\)**: Rest mass of the object.
+- **\(v\)**: Velocity of the object.
+- **\(c\)**: Speed of light.
+
+---
+
+## **2. Relativistic Kinetic Energy**
+The kinetic energy increases significantly near the speed of light:
+
+\[
+KE = \left( M_{rel} - M_0 \right) c^2
+\]
+
+- **\(KE\)**: Relativistic kinetic energy.
+
+---
+
+## **3. Time Dilation**
+Time slows down for an object moving at relativistic speeds:
+
+\[
+\Delta t' = \frac{\Delta t}{\sqrt{1 - \frac{v^2}{c^2}}}
+\]
+
+- **\(\Delta t'\)**: Dilated time interval.
+- **\(\Delta t\)**: Proper time interval.
+
+---
+
+## **4. Length Contraction**
+The length of an object contracts in the direction of motion:
+
+\[
+L' = L \sqrt{1 - \frac{v^2}{c^2}}
+\]
+
+- **\(L'\)**: Contracted length.
+- **\(L\)**: Proper length.
+
+---
+
+## **5. Energy Density**
+The energy density increases with the spaceship's energy:
+
+\[
+\rho_E = \frac{P_{Kala}}{V}
+\]
+
+- **\(\rho_E\)**: Energy density.
+- **\(P_{Kala}\)**: Total energy of the spaceship.
+- **\(V\)**: Effective volume of the spaceship.
+
+---
+
+## **6. Black Hole Formation Threshold**
+The energy density must exceed the black hole threshold:
+
+\[
+\rho_E > \frac{c^4}{8 \pi G \left(\frac{2 G M_{rel}}{c^2}\right)^2}
+\]
+
+- **\(G\)**: Gravitational constant.
+- **\(R_{Kala} = \frac{2 G M_{rel}}{c^2}\)**: Schwarzschild radius.
+
+---
+
+## **7. Quantum Tunneling Probability**
+The probability of transitioning through a quantum barrier:
+
+\[
+P_{tunnel} = e^{-2 \cdot \sqrt{\frac{2 M_0 \left( E_{barrier} - E_{quantum} \right)}{\hbar^2}} \cdot d}
+\]
+
+- **\(P_{tunnel}\)**: Tunneling probability.
+- **\(E_{barrier}\)**: Energy barrier.
+- **\(E_{quantum}\)**: Quantum energy.
+- **\(\hbar\)**: Reduced Planck's constant.
+- **\(d\)**: Tunneling distance.
+
+---
+
+## **8. Spacetime Warping**
+The energy-momentum tensor contributes to spacetime distortion:
+
+\[
+T_{\mu\nu} \sim \frac{P_{Kala}}{c^2}
+\]
+
+- **\(T_{\mu\nu}\)**: Energy-momentum tensor.
+
+---
+
+## **9. Multiverse Transition Energy**
+The energy required to transition into another universe:
+
+\[
+\Delta E_{transition} = E_{barrier} - E_{quantum}
+\]
+
+- **\(\Delta E_{transition}\)**: Transition energy.
+
+---
+
+## **10. Kala Disappearance Formula**
+Combining quantum, relativistic, and energy components:
+
+\[
+P_{Kala} = \frac{\left( E_{quantum} + F_{drag} \cdot v \cdot t + F_{thrust} \cdot d + E_{tunnel} + E_{plasma} + E_{redshift} \right)}{\hbar \omega_c} \cdot \gamma
+\]
+
+- **\(P_{Kala}\)**: Total energy required for disappearance.
+- **\(\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}\)**: Lorentz factor.
+
+---
+
+These formulas provide a theoretical foundation for studying relativistic effects, quantum tunneling, energy density, and potential black hole formation as objects approach light speed. They explore the extreme boundaries of physics for advanced research and innovation.
+
+
 These formulas are integral to understanding and developing technologies involving quantum engines, time travel, and multiverse interactions.
 
 ![Kala](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/DALL%C2%B7E%202024-12-30%2010.24.41%20-%20A%20futuristic%2C%20formula-based%20conceptual%20image%20illustrating%20Kala%20Quantum%20Time%20Travel%2C%20multiverse%20connection%2C%20and%20spaceship%20engine%20integration.%20The%20image.webp)
