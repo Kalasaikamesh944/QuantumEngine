@@ -86,6 +86,7 @@ These formulas are integral to understanding and developing technologies involvi
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(4).png)
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/output%20(5).png)
 ![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/DALL%C2%B7E%202024-12-30%2011.10.27%20-%20A%20detailed%20blueprint%20of%20efficient%20futuristic%20spaceship%20designs%20focused%20on%20energy%20efficiency%20and%20advanced%20propulsion%20systems.%20The%20design%20includes%20a%20mod.webp)
+![](https://github.com/Kalasaikamesh944/QuantumEngine/blob/main/DALL%C2%B7E%202024-12-30%2011.14.29%20-%20A%20detailed%20hand-drawn%20sketch-style%20blueprint%20of%20an%20efficient%20futuristic%20spaceship%20design%20on%20paper%2C%20including%20precise%20measurements%20and%20labeled%20componen.webp)
 ## **Lab Setup**
 ### Testing Lab Blueprint
 A modern lab setup is essential for testing the Quantum Engine. The image below details the necessary tools and configurations:
